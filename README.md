@@ -1,4 +1,4 @@
-### I am currently working on deep learning models on diiferent domains in computer vision and human activity recognition and localisation in indoor iot networks.👋
+### I am currently working on deep learning models on diiferent domains in computer vision and human activity recognition .👋
 
 <!--
 **ayu1729/ayu1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
